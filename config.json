@@ -3,8 +3,17 @@
         "source": "https://github.com/<GitHub Username>/<repo1>.git",
         "branch": "your-branch-name",
         "env": {
-            "TOKEN": "",
-            "TOKEN2": ""
+            "ADMINS": "",
+            "API_HASH": "",
+             "APP_ID": "",
+           "CHANNEL_ID": "",
+           "DATABASE_NAME": "",
+            "DATABASE_URL": "",
+          "FORCE_SUB_CHANNEL": "",
+           "FORCE_SUB_MESSAGE": "",
+            "OWNER_ID": "",
+            "START_MESSAGE": "",
+            "TG_BOT_TOKEN": ""
         },
         "run": ""
     },
@@ -12,7 +21,17 @@
         "source": "https://github.com/<GitHub Username>/<repo2>.git",
         "branch": "your-branch-name",
         "env": {
-            "TOKEN": ""
+            "ADMINS": "",
+            "API_HASH": "",
+             "APP_ID": "",
+           "CHANNEL_ID": "",
+           "DATABASE_NAME": "",
+            "DATABASE_URL": "",
+          "FORCE_SUB_CHANNEL": "",
+           "FORCE_SUB_MESSAGE": "",
+            "OWNER_ID": "",
+            "START_MESSAGE": "",
+            "TG_BOT_TOKEN": ""
         },
         "run": ""
     },
@@ -20,7 +39,17 @@
         "source": "https://<GitHub Username>:<GitHub Token>@github.com/<GitHub Username>/<private-repo>.git",
         "branch": "your-branch-name",
         "env": {
-            "TOKEN": ""
+            "ADMINS": "",
+            "API_HASH": "",
+             "APP_ID": "",
+           "CHANNEL_ID": "",
+           "DATABASE_NAME": "",
+            "DATABASE_URL": "",
+          "FORCE_SUB_CHANNEL": "",
+           "FORCE_SUB_MESSAGE": "",
+            "OWNER_ID": "",
+            "START_MESSAGE": "",
+            "TG_BOT_TOKEN": ""
         },
         "run": ""
     }
