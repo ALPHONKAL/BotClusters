@@ -1,55 +1,55 @@
 {   
     "bot1": {
         "source": "https://github.com/<GitHub Username>/<repo1>.git",
-        "branch": "your-branch-name",
+        "branch": "sharebot1",
         "env": {
-            "ADMINS": "",
-            "API_HASH": "",
-             "APP_ID": "",
-           "CHANNEL_ID": "",
-           "DATABASE_NAME": "",
-            "DATABASE_URL": "",
-          "FORCE_SUB_CHANNEL": "",
-           "FORCE_SUB_MESSAGE": "",
-            "OWNER_ID": "",
-            "START_MESSAGE": "",
-            "TG_BOT_TOKEN": ""
+            "ADMINS": "5108672938",
+            "API_HASH": "d2d1f98ac264f17c6c0262661951f2a7",
+             "APP_ID": "29740905",
+           "CHANNEL_ID": "-1001902235047",
+           "DATABASE_NAME": "kal",
+            "DATABASE_URL": "mongodb+srv://animecircle:circleanime@cluster0.kspizla.mongodb.net/?retryWrites=true&w=majority",
+          "FORCE_SUB_CHANNEL": "-1001914279504",
+           "FORCE_SUB_MESSAGE": "Hello {first} You need to join my main Channel to get the files Kindly Please join Channel and Press Try Again",
+            "OWNER_ID": "5108672938",
+            "START_MESSAGE": "Hello {first} I store private files for @the_moviebuff_tv",
+            "TG_BOT_TOKEN": "6509261574:AAEJTsOvyUTs-0MF5IAo3YjOhaXWZLeu-dM"
         },
         "run": ""
     },
     "bot2": {
         "source": "https://github.com/<GitHub Username>/<repo2>.git",
-        "branch": "your-branch-name",
+        "branch": "sharebot3",
         "env": {
-            "ADMINS": "",
-            "API_HASH": "",
-             "APP_ID": "",
-           "CHANNEL_ID": "",
-           "DATABASE_NAME": "",
-            "DATABASE_URL": "",
-          "FORCE_SUB_CHANNEL": "",
-           "FORCE_SUB_MESSAGE": "",
-            "OWNER_ID": "",
-            "START_MESSAGE": "",
-            "TG_BOT_TOKEN": ""
+            "ADMINS": "5108672938",
+            "API_HASH": "d2d1f98ac264f17c6c0262661951f2a7",
+             "APP_ID": "29740905",
+           "CHANNEL_ID": "-1001586522406",
+           "DATABASE_NAME": "Alex",
+            "DATABASE_URL": "mongodb+srv://markelisa25:oBS3Jl7MOcIggyNc@cluster0.fgfmoz6.mongodb.net/?retryWrites=true&w=majority",
+          "FORCE_SUB_CHANNEL": "-1001914279504",
+           "FORCE_SUB_MESSAGE": "Hello {first} You need to join my main Channel to get the files Kindly Please join Channel and Press Try Again",
+            "OWNER_ID": "5108672938",
+            "START_MESSAGE": "Hello {first} I store private files for @the_moviebuff_tv",
+            "TG_BOT_TOKEN": "7092333891:AAFwGRieUEL0VIPF4HvOJOfO6f7WO_o8Hb0"
         },
         "run": ""
     },
     "bot3": {
         "source": "https://<GitHub Username>:<GitHub Token>@github.com/<GitHub Username>/<private-repo>.git",
-        "branch": "your-branch-name",
+        "branch": "sharebot5",
         "env": {
-            "ADMINS": "",
-            "API_HASH": "",
-             "APP_ID": "",
-           "CHANNEL_ID": "",
-           "DATABASE_NAME": "",
-            "DATABASE_URL": "",
-          "FORCE_SUB_CHANNEL": "",
-           "FORCE_SUB_MESSAGE": "",
-            "OWNER_ID": "",
-            "START_MESSAGE": "",
-            "TG_BOT_TOKEN": ""
+            "ADMINS": "5108672938",
+            "API_HASH": "d2d1f98ac264f17c6c0262661951f2a7",
+             "APP_ID": "29740905",
+           "CHANNEL_ID": "-1002129217887",
+           "DATABASE_NAME": "kloo",
+            "DATABASE_URL": "mongodb+srv://animecircle:circleanime@cluster0.kspizla.mongodb.net/?retryWrites=true&w=majority",
+          "FORCE_SUB_CHANNEL": "-1001914279504",
+           "FORCE_SUB_MESSAGE": "Hello {first} You need to join my main Channel to get the files Kindly Please join Channel and Press Try Again",
+            "OWNER_ID": "5108672938",
+            "START_MESSAGE": "Hello {first} I store private files for @the_moviebuff_tv",
+            "TG_BOT_TOKEN": "6883724066:AAEFXzerrrEDEqtxDLFyWsIKogwZhrAEp9A"
         },
         "run": ""
     }
